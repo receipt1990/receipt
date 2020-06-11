@@ -1,0 +1,49 @@
+.img{
+    width : 85%;
+    margin-bottom: 20px;
+    height: 180px;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+}
+hr{
+    width: 90%;
+}
+.hr{
+    margin-bottom: 50px;
+}
+.my_box{
+    text-align: center;
+    border: 1px solid #252424;
+    padding-bottom: 10px;
+    height: 300px;
+}
+.col-3{
+    margin: 10px 35px 0 35px;
+}
+h3{
+    font-family: fantasy;
+    background-color: #6bf372;
+}
+.submitbutton{
+    float: left;
+}
+.footer_button{
+    margin: 5px 20px;
+}
+.special{
+    margin-bottom: 20px;
+}
+.col-4{
+    text-align: right;
+}
+.addBtn{
+    margin-right: 40px;
+}
+.search{
+    width: 200px;
+}
+.spacing{
+    margin : 10px 0 5px 0;
+}
